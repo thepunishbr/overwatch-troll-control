@@ -1,0 +1,5 @@
+
+*.exe
+source/__pycache__/cmdHandler.cpython-35.pyc
+*.zip
+*.pyc

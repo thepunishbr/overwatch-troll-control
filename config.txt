@@ -1,0 +1,6 @@
+[USER]
+overwatch_path = D:\Overwatch\Overwatch.exe
+
+[DEV]	
+firewall_rule_name = OVERWATCH WALL
+black_list_ips = 55,52,18,54
